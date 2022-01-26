@@ -1,10 +1,3 @@
-'''
-Solo Checkpoint 02
-Author: Bro. Hayes
-'''
-
-from tkinter.messagebox import RETRY
-
 
 def main():
     ''' Holds the main game loop logic
